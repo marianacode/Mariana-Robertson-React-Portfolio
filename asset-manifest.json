@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/marianacode/Mariana-Robertson-React-Portfolio/static/css/main.3d899b1e.chunk.css",
+    "main.js": "/marianacode/Mariana-Robertson-React-Portfolio/static/js/main.af1966fe.chunk.js",
+    "main.js.map": "/marianacode/Mariana-Robertson-React-Portfolio/static/js/main.af1966fe.chunk.js.map",
+    "runtime-main.js": "/marianacode/Mariana-Robertson-React-Portfolio/static/js/runtime-main.30212b9a.js",
+    "runtime-main.js.map": "/marianacode/Mariana-Robertson-React-Portfolio/static/js/runtime-main.30212b9a.js.map",
+    "static/css/2.437d98bc.chunk.css": "/marianacode/Mariana-Robertson-React-Portfolio/static/css/2.437d98bc.chunk.css",
+    "static/js/2.09a09628.chunk.js": "/marianacode/Mariana-Robertson-React-Portfolio/static/js/2.09a09628.chunk.js",
+    "static/js/2.09a09628.chunk.js.map": "/marianacode/Mariana-Robertson-React-Portfolio/static/js/2.09a09628.chunk.js.map",
+    "index.html": "/marianacode/Mariana-Robertson-React-Portfolio/index.html",
+    "precache-manifest.6b69d9e3301e474457890bf4fec705ce.js": "/marianacode/Mariana-Robertson-React-Portfolio/precache-manifest.6b69d9e3301e474457890bf4fec705ce.js",
+    "service-worker.js": "/marianacode/Mariana-Robertson-React-Portfolio/service-worker.js",
+    "static/css/2.437d98bc.chunk.css.map": "/marianacode/Mariana-Robertson-React-Portfolio/static/css/2.437d98bc.chunk.css.map",
+    "static/css/main.3d899b1e.chunk.css.map": "/marianacode/Mariana-Robertson-React-Portfolio/static/css/main.3d899b1e.chunk.css.map",
+    "static/js/2.09a09628.chunk.js.LICENSE.txt": "/marianacode/Mariana-Robertson-React-Portfolio/static/js/2.09a09628.chunk.js.LICENSE.txt",
+    "static/media/Mariana Capture.PNG": "/marianacode/Mariana-Robertson-React-Portfolio/static/media/Mariana Capture.80e8c3d9.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30212b9a.js",
+    "static/css/2.437d98bc.chunk.css",
+    "static/js/2.09a09628.chunk.js",
+    "static/css/main.3d899b1e.chunk.css",
+    "static/js/main.af1966fe.chunk.js"
+  ]
+}
