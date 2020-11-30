@@ -1,0 +1,74 @@
+[
+    {
+        "id": "home1",
+        "image": "Images/Project 1.JPG",
+        "name": "Restaurant & Recipe Finder",
+        "description": "This app let's you find a restaurant based on the cousine of your choice or search for a recipe.",
+        "tech": "HTML5, CSS3, Materialize, Handlebars, JavaScript, jQuery, Zomato API",
+        "github": "https://github.com/marianacode/Project1",
+        "site": "https://marianacode.github.io/Project1/"
+    },
+    {
+        "id": "home2",
+        "image": "Images/Project 2.JPG",
+        "name": "Coding Study App",
+        "description": "This app will help you study coding.You can find books and videos related to coding in one place",
+        "tech": "HTML5, CSS3, Materialize, JavaScript, jQuery, Google Books API",
+        "github": "https://github.com/marianacode/BookFace",
+        "site": "https://bookface2020.herokuapp.com/"
+    },
+    {
+        "id": 1,
+        "image": "Images/Weather Dashboard.JPG",
+        "name": "Weather Dashboard",
+        "description": " Enter any city name and get a detailed report on the daily weather as well as the upcoming five day forecast. All city searches are saved in the sidebar so that you can quickly click through and stay up to date on the local weather you care about.",
+        "tech": "HTML5, CSS3, JavaScript, jQuery, Moment.js. OpenWeather API",
+        "github": "https://github.com/marianacode/Weather-Dashboard",
+        "site": "https://marianacode.github.io/Weather-Dashboard/"
+    },
+    {
+        "id": 2,
+        "image": "Images/Code-Quiz.JPG",
+        "name": "Code Quiz",
+        "description": "Test your JavaScript knowledge with our quiz! You have 90 seconds to answer six multiple questions. You start with 90 points and loose 10 points every answer you get wrong. Your final score is the remaining seconds when you complete the quiz. When done, enter your initials to be recorded in the high score list!",
+        "tech": "HTML5, CSS3, Bootstrap, JavaScript",
+        "github": "https://github.com/marianacode/Code-Quiz",
+        "site": "https://marianacode.github.io/Code-Quiz/"
+    },
+    {
+        "id": 3,
+        "image": "Images/Work Day Scheduler.JPG",
+        "name": "Day Planner",
+        "description": "This is a simple calendar application that allows the user to save tasks for each specific hour of the current day. The user types in the task they would like to complete in the row with the relevant hour and clicks the save button on the far right. All tasks that are saved are stored locally and will remain in the text box until cleared. The current date and time are dynamically. Additionally, each row is dynamically updated by color based on the current time.",
+        "tech": "HTML5, CSS3, JavaScript, jQuery, Moment.js",
+        "github": "https://github.com/marianacode/Work-Day-Scheduler",
+        "site": "https://marianacode.github.io/Work-Day-Scheduler/"
+    },
+    {
+        "id": 4,
+        "image": "Images/Password Generator.JPG",
+        "name": "Password Generator",
+        "description": "A password is randomly generated based on criteria that the user provides when prompted. When the user clicks the button 'Generate Password' they are first promoted for password length. If outside the range of 8-50, the user is prompted to once again enter a password length within the range. The prompt will loop until the user enters a valid number. The program then prompts the user to define if they would like to include numbers, characters, uppercase and/or lowercase letters. If the user selects none to all criteria, the program will ask it to select at least each one and will loop back through the prompts. When all parameters have been defined, the password will appear within the password box.",
+        "tech": "HTML5, CSS3, JavaScript",
+        "github": "https://github.com/marianacode/Password-Generator",
+        "site": "https://marianacode.github.io/Password-Generator/"
+    },
+    {
+        "id": 6,
+        "image": "Images/Employee-Summary.JPG",
+        "name": "Employee Summary",
+        "description": "The application will prompt the user for information about the team members. The user can input any number of team members, and they may be a mix of managers, engineers and interns. When the user has completed building the team, the application will create an HTML file that displays a nicely formatted team roster based on the information provided by the user.",
+        "tech": "JavaScript, Node JS",
+        "github": "https://github.com/marianacode/Template-Engine---Employee-Summary",
+        "site": "https://marianacode.github.io/Template-Engine---Employee-Summary/"
+    },
+    {
+        "id": 8,
+        "image": "Images/Note-Taker.jpg",
+        "name": "Note Taker",
+        "description": "An application that can be used to write, save, and delete notes. It uses an express backend to save and retrieve note data from a JSON file.",
+        "tech": "JavaScript, Node JS",
+        "github": "https://github.com/marianacode/Note-Taker",
+        "site": "https://evening-hamlet-43706.herokuapp.com/"
+    }
+]
