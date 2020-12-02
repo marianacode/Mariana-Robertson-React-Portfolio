@@ -2,7 +2,7 @@
 
 Personal Portfolio
 
-[![Build Status](https://img.shields.io/badge/Project%20title-React--Portfolio-blue)](https://img.shields.io/badge/Project%20title-React--Portfolio-blue)
+[![Build Status](https://img.shields.io/badge/Project%20title-Mariana--Robertson--React--Portfolio-blue)](https://img.shields.io/badge/Project%20title-React--Portfolio-blue)
 
 
 ## Description
