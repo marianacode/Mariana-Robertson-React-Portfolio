@@ -11,6 +11,6 @@ Personal Portfolio
 
 ## Deployment
 
-[Heroku Page](hhttps://frozen-refuge-50681.herokuapp.com/)
+[Heroku Page](https://frozen-refuge-50681.herokuapp.com/)
 
 
